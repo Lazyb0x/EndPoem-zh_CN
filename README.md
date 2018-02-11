@@ -31,3 +31,5 @@
 ![终末之诗](https://github.com/Lazyb0x/Archives/raw/master/Release/EndPoem-CN/Poem.png)
 
 ### 下载
+
+**[全版本支持！](https://github.com/Lazyb0x/EndPoem-zh_CN/releases/tag/v0.1)**
