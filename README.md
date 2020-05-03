@@ -30,4 +30,4 @@
 
 ### 下载
 
-**[点我](https://github.com/Lazyb0x/EndPoem-zh_CN/releases/tag/v0.1)**
+**[点我](https://github.com/Lazyb0x/EndPoem-zh_CN/releases/latest)**
